@@ -1,0 +1,84 @@
+body
+{
+	background-image: url("bg.jpg");
+}
+#label_math{
+	font-size: 60px;
+	font-weight: bold;
+	color: black;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: tomato;
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+
+h1{
+	color: red;
+	font-family: 'Akaya kanadaka',cursive;
+}
+h3{
+	font-family: 'Lora', serif;
+	color: aqua;
+}
+#username{
+	font-family: 'Yellowtail', cursive;
+	color: black;
+}
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h4{
+	color: blue;
+	font-family: 'Akaya Kanadaka', cursive;
+	width: 100px;
+}
+h4:hover{
+	text-decoration: underline;
+}
+
+
+
+.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
